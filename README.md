@@ -1,49 +1,22 @@
 ### Hey there :wave:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Sarun+Shrestha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Sarun+Shrestha.)](https://git.io/typing-svg)
 
 ###### Glad to see you here :heart:
-
-
-
-<a href="https://shumbularifa.com">
-  <kbd>
-  <img align="centre" alt="shumbularifa.com" width="22px" src="https://dz8fbjd9gwp2s.cloudfront.net/logos/644a0515e4b062410b4e9f3b.png?v=5" />
-</a>
- 
- <a href="https://linktr.ee/shumbul">
-  <kbd>
-  <img align="centre" alt="shumbul's LinkTree" width="22px" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" />
-</a>
    
-<a href="https://linkedin.com/in/shumbul">
+<a href="https://www.linkedin.com/in/sarun-shrestha-abab3b291">
   <kbd>
   <img align="centre" alt="shumbul's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
   
- <a href="https://www.instagram.com/shumbul.arifa/">
+ <a href="https://www.instagram.com/sarun.sarun.sarun/">
   <kbd>
   <img align="centre" alt="shumbul's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
-
-<a href="https://www.instagram.com/shumbularifa/">
-  <kbd>
-  <img align="centre" alt="shumbul's Instagram - personal blog" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
-</a>
   
-<a href="https://twitter.com/ShumbulArifa">
+<a href="https://x.com/sarun_stha2003">
 <kbd>
 <img align="centre" alt="shumbul's Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />
-</a>
- 
-<a href="https://t.me/ShumbulArifa">
-  <kbd>
-  <img align="centre" alt="shumbul's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />
-</a>
- 
-<a href="https://devfolio.co/@shumbul_arifa">
-  <kbd>
-  <img align="centre" alt="shumbul's Devfolio" width="22px" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" />
 </a>
 
 <br/>
@@ -51,9 +24,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
 
-- 🏢 Upcoming Data Analyst
-- 🏫 Louisiana Tech University, Ruston, LA
-- 💻 Former Afame Technologies Intern at Bengaluru, India
+- 🏢 Upcoming Data Analyst.
+- 🏫 Louisiana Tech University, Ruston, Louisiana.
+- 💻 Former Afame Technologies Intern at Bengaluru, India.
 - 🙋‍ More about me: Visit my [website](https://sarun.github.io/)
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/sarun-shrestha-abab3b291/)
 
