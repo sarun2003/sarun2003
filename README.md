@@ -4,7 +4,7 @@
 
 ###### Glad to see you here :heart:
    
-<a href="https://www.linkedin.com/in/sarun-shrestha-abab3b291">
+<a href="https://www.linkedin.com/in/sarun2003">
   <kbd>
   <img align="centre" alt="shumbul's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
@@ -28,6 +28,4 @@
 - 🏫 Louisiana Tech University, Ruston, Louisiana.
 - 💻 Former Afame Technologies Intern at Bengaluru, India.
 - 🙋‍ More about me: Visit my [website](https://sarun.github.io/)
-- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/sarun-shrestha-abab3b291/)
-
-
+- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/sarun2003/)
