@@ -27,5 +27,5 @@
 - 🏢 Upcoming Data Analyst.
 - 🏫 Louisiana Tech University, Ruston, Louisiana.
 - 💻 Former Afame Technologies Intern at Bengaluru, India.
-- 🙋‍ More about me: Visit my [website](https://sarun.github.io/)
+- 🙋‍ More about me: Visit my [website](https://github.com/sarun2003/sarun2003.github.io)
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/sarun2003/)
