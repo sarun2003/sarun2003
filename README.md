@@ -1,6 +1,6 @@
 ### Hey there :wave:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Sarun+Shrestha.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Sarun+Shrestha.+ I + LOVE + NIYA❤️.)](https://git.io/typing-svg)
 
 ###### Glad to see you here :heart:
    
