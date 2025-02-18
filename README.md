@@ -24,7 +24,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect.)](https://git.io/typing-svg)
 
-- 🏢 Upcoming Data Analyst.
+- 🏢 Student Technology Assistant, IT Department, College of Business, Louisiana Tech University.
 - 🏫 Louisiana Tech University, Ruston, Louisiana.
 - 💻 Former Afame Technologies Intern.
 - 🙋‍ More about me: Visit my [website](https://sarun2003.github.io/)
